@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+requests
+pillow
+opencv-python
+rasterio
+gdal
+numpy
+torch
+torchvision
+ffmpeg-python
+scikit-image
+owslib
